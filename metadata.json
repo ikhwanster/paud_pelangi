@@ -1,0 +1,6 @@
+{
+  "name": "PAUD Pintar - Mengenal Diri Sendiri",
+  "description": "Materi pembelajaran interaktif untuk guru PAUD dan orang tua berdasarkan kurikulum Tema Diri Sendiri, dilengkapi game drag-and-drop, animasi & audio, sistem poin bintang, dan dasbor analitik perkembangan anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
